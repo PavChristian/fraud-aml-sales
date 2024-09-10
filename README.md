@@ -10,5 +10,4 @@ I utilize several classifier models (XGBoosting and LDA) as well as undersamplin
 Time-series analysis for a Kaggle [competition](https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge/data?select=test.csv). Covers a period from 2020 to 2024 from 5 European warehouses. The notebook contains code that builds a time-series XGBoost model that predicts the number of orders.
 
 - [A/B Testing](https://github.com/PavChristian/fraud-aml-sales/blob/main/ab_test_cookie.ipynb)
-
 A/B testing notebook that analyze whether altering an in-game mechanic would have a statistically significant effect on the number of rounds played per each user.
