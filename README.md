@@ -11,3 +11,6 @@ Time-series analysis for a Kaggle [competition](https://www.kaggle.com/competiti
 
 - [A/B Testing](https://github.com/PavChristian/fraud-aml-sales/blob/main/ab_test_cookie.ipynb)
 A/B testing notebook that analyze whether altering an in-game mechanic would have a statistically significant effect on the number of rounds played per each user.
+
+- [Death records](https://github.com/PavChristian/fraud-aml-sales/blob/main/record_nn.py)
+A neural network for classification (partially edited as I was not authorized to upload complete code)
